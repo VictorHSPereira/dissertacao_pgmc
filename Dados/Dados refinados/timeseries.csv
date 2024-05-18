@@ -1,4 +1,4 @@
-,REAL - Saída,cum_avg,feriado,fim_semana,primeira_quinzena
+,Datetime,TPV,feriado,fim_semana,primeira_quinzena
 0,2021-01-02 07:30:00,2.2200000000000006,False,True,True
 1,2021-01-02 08:30:00,2.2200000000000006,False,True,True
 2,2021-01-02 12:00:00,2.605,False,True,True
